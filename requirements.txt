@@ -1,0 +1,9 @@
+opencv-python-headless
+scipy
+pandas
+matplotlib
+lightgbm 
+numpy
+scikit-image
+glob2
+seaborn
